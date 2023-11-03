@@ -1,0 +1,6 @@
+/home/sugan/Documents/GitHub/student-management-system/src/main/java/net/javaguides/sms/controller/StudentController.java
+/home/sugan/Documents/GitHub/student-management-system/src/main/java/net/javaguides/sms/repository/StudentRepository.java
+/home/sugan/Documents/GitHub/student-management-system/src/main/java/net/javaguides/sms/service/StudentService.java
+/home/sugan/Documents/GitHub/student-management-system/src/main/java/net/javaguides/sms/entity/Student.java
+/home/sugan/Documents/GitHub/student-management-system/src/main/java/net/javaguides/sms/StudentManagementSystemApplication.java
+/home/sugan/Documents/GitHub/student-management-system/src/main/java/net/javaguides/sms/service/impl/StudentServiceImpl.java
